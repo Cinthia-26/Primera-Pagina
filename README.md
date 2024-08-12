@@ -1,4 +1,4 @@
-# PORTAFOLIO DE CINTHIA GUADALUPE BERNABE MENDOZA 👩💻
+# HECHO POR CINTHIA GUADALUPE BERNABE MENDOZA 👩💻
   Primera pagina creada durante el bootcamp de tecnolochicas PRO.
 # Podras encontrarlo aqui
 
