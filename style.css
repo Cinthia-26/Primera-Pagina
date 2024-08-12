@@ -1,0 +1,81 @@
+/*selector Universal*/
+/*Selector de etiqueta*/
+*{
+    margin:0;
+    padding: 4px;;
+    box-sizing:border-box;
+    
+    }
+    
+    body{
+        background: -webkit-linear-gradient(90deg, #3caee8,#4da087,#6a066d);/* Chrome 10-25, Safari 5.1-6 */                          background: linear-gradient(90deg, #3caee8,#4da087,#6a066d);/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */                                             
+    
+    
+    }
+    .menu{
+     display: flex;
+     justify-content: center;
+    }
+   /* P{
+        color:darkblue
+    }*/
+    
+    .parrafo1{
+        color:blueviolet
+    }
+    .parrafo2{
+        color:blue}
+       /*ALTO Y ANCHO DE UNA IMAGEN img{
+            .perritocafe{
+                height: 500px;
+                width: 100px;
+                border-radius:50;
+                borde:solid;
+                color:aqua;
+            }
+        }*/
+    .parrafo3{
+        color:chartreuse;
+    }
+    .Boneto{
+    width: 200px;
+    height: 200px;
+    padding: 20px;/*ESPACIO ENTRE 1 ELEMTNO Y SU BORDE(AARIBA,ABAJO.zq,derecha*/
+    border-radius:20px;
+    border: solid;
+    color:aqua; 
+    }
+    .gatita{
+        width: 200px;
+        height: 200px;
+        padding: 20px;/*ESPACIO ENTRE 1 ELEMTNO Y SU BORDE(AARIBA,ABAJO.zq,derecha*/
+    border-radius:20px;
+    border: solid;
+    color:blueviolet; 
+    }
+    .container{
+     background-color: none;
+     display: flex;/*AYUDA A ORDENAR ELEMENTOS EN UNA CAJITA*/
+     justify-content: center;
+     align-items: center;
+    }
+    .menu{
+    background-color: black;
+    margin: 5px;
+    overflow:none;
+    }
+    .menu ul{
+    list-style:none;
+    margin: 0;
+    
+    }
+    .menu ul li{
+        float: left;/*QUE SE POSIICIONE A LA IZQUIERDA*/
+    }
+    .menu ul li a{
+    display: block;
+    color: bisque;
+    text-align: center;
+    padding: 14px;/*PARA SEPARAR LOS TEXTOS DEL MENU*/
+    text-decoration: none;/*NONE QUITA LA RAYA DEBAJO DE LOS TEXTOS*/
+    }
